@@ -11,25 +11,21 @@
     margin-top: 20px;
     margin-right: 20px;
     margin-left: 20px;
-    /* float:inherit; */
 }
 .side-nav {
     height: 300px;
     width: 200px;
     background-color: blue;
     padding: 5px;
-    /* margin-top: 20px; */
     margin-bottom: 68px;
     margin-right:10px;
     margin-left: 20px;
     display: inline-block;
-    /* float: inline-start; */
 }
 .main {
     height: 400px;
     width: 700px;
     background-color: red;
-    /* float:right; */
     display: inline-block;
     padding: 20px;
     margin-top: 20px;
@@ -41,17 +37,14 @@
     width: 210px;
     background-color: yellow;
     border: .5px soild yellow;
-    /* margin: 10px; */
     display: inline-block;
-    /* margin-right: 13.25px; */
     margin-left: 10px;
-    /* float:right; */
 }
+
 #advertisement {
     height: 120px;
     width: 660px;
     background-color: purple;
-    /* float:inherit; */
     display: inline-block;
     margin-right: 10px;
     margin-top: 15px;
